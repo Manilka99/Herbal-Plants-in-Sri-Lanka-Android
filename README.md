@@ -11,15 +11,7 @@ Welcome to the Herbal Plants in Sri Lanka Android application repository! This a
 
 ## Installation
 
-To run this app on your Android device or emulator:
-
-To provide instructions on how to clone your GitHub repository using Android Studio's Version Control features, you can guide users through the process of adding the repository URL to Android Studio. This allows for easy cloning and project setup directly from the IDE. Here's how you can include these instructions in your report:
-
----
-
-## Cloning the Repository in Android Studio
-
-To clone the "Herbal Plants in Sri Lanka" Android application repository directly in Android Studio, follow these steps:
+To run this app on your Android device or emulator, follow these steps:
 
 1. **Open Android Studio:**
    Launch Android Studio on your computer.
@@ -30,7 +22,7 @@ To clone the "Herbal Plants in Sri Lanka" Android application repository directl
 3. **Add Repository URL:**
    In the "URL" field, paste the URL of your GitHub repository:
    ```
-   https://github.com/your-username/Herbal-Plants-in-Sri-Lanka-Android.git
+   https://github.com/Manilka99/Herbal-Plants-in-Sri-Lanka-Android.git
    ```
 
 4. **Specify Project Location:**
