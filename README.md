@@ -13,25 +13,45 @@ Welcome to the Herbal Plants in Sri Lanka Android application repository! This a
 
 To run this app on your Android device or emulator:
 
-1. Clone this repository:
+To provide instructions on how to clone your GitHub repository using Android Studio's Version Control features, you can guide users through the process of adding the repository URL to Android Studio. This allows for easy cloning and project setup directly from the IDE. Here's how you can include these instructions in your report:
 
-    ```bash
-    git clone https://github.com/Manilka99/Herbal-Plants-in-Sri-Lanka-Android.git
-    ```
+---
 
-2. Open the project in Android Studio.
+## Cloning the Repository in Android Studio
 
-3. **Android Gradle Plugin Version**: This project uses the Android Gradle Plugin version 8.3.2.
+To clone the "Herbal Plants in Sri Lanka" Android application repository directly in Android Studio, follow these steps:
+
+1. **Open Android Studio:**
+   Launch Android Studio on your computer.
+
+2. **Navigate to Version Control:**
+   From the main menu, go to `File > New > Project from Version Control`.
+
+3. **Add Repository URL:**
+   In the "URL" field, paste the URL of your GitHub repository:
+   ```
+   https://github.com/your-username/Herbal-Plants-in-Sri-Lanka-Android.git
+   ```
+
+4. **Specify Project Location:**
+   Choose the directory where you want to clone the repository on your local machine.
+
+5. **Clone Repository:**
+   Click the `Clone` button to start cloning the repository.
+
+6. **Open Project:**
+   Once the cloning process is complete, Android Studio will automatically open the project.
+
+
+- **Android Gradle Plugin Version**: This project uses the Android Gradle Plugin version 8.3.2.
    - Ensure you have the compatible Android Gradle Plugin version installed in your Android Studio.
 
-4. **Gradle Version**: This project is built with Gradle version 8.4.
+- **Gradle Version**: This project is built with Gradle version 8.4.
    - Make sure you have the specified Gradle version configured in your Android Studio.
-
-5. Build and run the app on a compatible Android device or emulator.
-   - **Compile SDK Version**: 34
-   - **Minimum SDK Version (minSdk)**: 26
-   - **Target SDK Version (targetSdk)**: 34
-   - Ensure you have the corresponding SDK versions and tools installed in your Android Studio.
+     
+- **Compile SDK Version**: 34
+- **Minimum SDK Version (minSdk)**: 26
+- **Target SDK Version (targetSdk)**: 34
 
 ## Usage
 
