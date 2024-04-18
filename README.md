@@ -1,7 +1,3 @@
-Certainly! Below is the updated README file for your Herbal Plants in Sri Lanka Android application repository, including instructions on usage, installation steps, technology stack, contribution guidelines, licensing information, acknowledgments, and more.
-
----
-
 # Herbal Plants in Sri Lanka - Android App
 
 Welcome to the Herbal Plants in Sri Lanka Android application repository! This app showcases a collection of herbal plants native to Sri Lanka. Users can view plant details, add new plants, and manage their plant list.
