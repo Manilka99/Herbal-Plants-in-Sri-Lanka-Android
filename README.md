@@ -16,7 +16,7 @@ To run this app on your Android device or emulator:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/Herbal-Plants-in-Sri-Lanka-Android.git
+    git clone https://github.com/Manilka99/Herbal-Plants-in-Sri-Lanka-Android.git
     ```
 
 2. Open the project in Android Studio.
