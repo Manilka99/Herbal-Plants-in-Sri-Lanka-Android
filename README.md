@@ -20,7 +20,7 @@ To run this app on your Android device or emulator:
     ```
 
 2. Open the project in Android Studio.
-8
+
 3. **Android Gradle Plugin Version**: This project uses the Android Gradle Plugin version 8.3.2.
    - Ensure you have the compatible Android Gradle Plugin version installed in your Android Studio.
 
